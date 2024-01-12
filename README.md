@@ -7,4 +7,4 @@
 ### 5. Getting Started with Machine Learning
 ### 6. Version Control
 ### 7. Programming Assessment
-### 8. Obtain your E-Certificate
+### 8. Certificate
