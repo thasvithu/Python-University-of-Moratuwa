@@ -18,3 +18,21 @@ print(type(numbers2))
 numbers3 = set((2, 4, 8, 10, 12))
 print(numbers3)
 print(type(numbers3))
+
+
+# --- SET UNION ---
+A = {1, 2, 3, 4, 5}
+B = {1, 3, 5, 7, 9}
+
+print(A | B) #A and B
+print(A.union(B))
+
+
+# --- SET INTERSECTION ---
+print(A & B)
+print(A.intersection(B))
+
+
+# --- SET DIFFERENCE ---
+print(A - B)
+print(A.difference(B))
